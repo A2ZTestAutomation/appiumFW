@@ -1,0 +1,16 @@
+base\TestBase.class
+testscripts\SampleHybridTest.class
+testscripts\CalculatorTest.class
+testscripts\ContactTest.class
+base\ExtentReportTest.class
+testscripts\PageScrollTest.class
+testscripts\UIElementsLatestTest.class
+testscripts\DragAndDropTest.class
+base\EmulatorTestBase.class
+testscripts\ChromeTest.class
+testscripts\SMSApkTest.class
+testscripts\SwipeTest.class
+testscripts\DialApkTest.class
+base\ApkTestBase.class
+testscripts\FirstRealDevSample.class
+testscripts\LongPressTest.class

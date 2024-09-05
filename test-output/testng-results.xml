@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-05T11:32:29 IST" name="Suite" finished-at="2024-09-05T11:32:55 IST" duration-ms="26412">
+    <groups>
+    </groups>
+    <test started-at="2024-09-05T11:32:29 IST" name="Test" finished-at="2024-09-05T11:32:55 IST" duration-ms="26412">
+      <class name="testscripts.ChromeTest">
+        <test-method is-config="true" signature="reportSetup()[pri:0, instance:testscripts.ChromeTest@4b0b0854]" started-at="2024-09-05T11:32:28 IST" name="reportSetup" finished-at="2024-09-05T11:32:29 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetup -->
+        <test-method is-config="true" signature="setupEmulator()[pri:0, instance:testscripts.ChromeTest@4b0b0854]" started-at="2024-09-05T11:32:29 IST" name="setupEmulator" finished-at="2024-09-05T11:32:44 IST" duration-ms="15626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupEmulator -->
+        <test-method signature="loginTest()[pri:0, instance:testscripts.ChromeTest@4b0b0854]" started-at="2024-09-05T11:32:44 IST" name="loginTest" finished-at="2024-09-05T11:32:55 IST" duration-ms="10762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="setupChrome()[pri:0, instance:testscripts.ChromeTest@4b0b0854]" started-at="2024-09-05T11:32:44 IST" name="setupChrome" finished-at="2024-09-05T11:32:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupChrome -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testscripts.ChromeTest@4b0b0854]" started-at="2024-09-05T11:32:55 IST" name="teardown" finished-at="2024-09-05T11:32:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="reportTeardown()[pri:0, instance:testscripts.ChromeTest@4b0b0854]" started-at="2024-09-05T11:32:55 IST" name="reportTeardown" finished-at="2024-09-05T11:32:56 IST" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTeardown -->
+      </class> <!-- testscripts.ChromeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
